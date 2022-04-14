@@ -1,0 +1,41 @@
+body {
+    background-color: #FFF;
+} 
+#conteiner{
+background-color: #FFF;
+width:300px;
+height:400px;
+}
+#textx marquee{
+	width: 280px;
+	height: 380px;
+	margin-left:20px;
+	margin-right:20px;
+	marquee-speed:slow;
+	marquee-style:scroll;
+}
+#textx h1{
+	color:#000;
+	text-align:center;
+	font-size:30px;
+	}
+#textx h2{
+	color: #999;
+	text-align:center;
+	font-size:21px;
+	}
+#textx h3{
+	color: #F30;
+	text-align:center;
+	font-size:17px;
+	}
+#textx .nam{
+	color: #333;
+	text-align:center;
+	font-size:19px;
+	}
+#textx .mail{
+	color: #06F;
+	text-align:center;
+	font-size:13px;
+	}
